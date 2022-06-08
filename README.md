@@ -10,6 +10,8 @@ This contains
 ____________________________________________________________________________________________
 ## System Requirements
 
+To download this Github Repository, you need to install and initialize Git LFS (Git Large File Storage). 
+
 AMAISE requires a computational environment with a Linux-based machine/Ubuntu that has a GPU and enough RAM to support downloading the necessary packages and GPU driver and to support the in-memory operations.
 
 AMAISE also requires pip and Python 3.6 or above. Required packages and versions are listed in "requirements.txt". If your environment is already set up to run code on a GPU, you can install the packages in requirements.txt using:
