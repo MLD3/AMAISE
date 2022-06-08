@@ -1,0 +1,6 @@
+Speed: 34.0900000000
+Peak Memory Usage: 3.0599600000
+Total Storage: 0.0029858630
+Accuracy: 0.9923231266
+Sensitivity: 0.9924669604
+Specificity: 0.9778761062
