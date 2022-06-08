@@ -15,4 +15,4 @@ max_len = 6000
 batch_max_len = 900000
 
 # When track_gpu is True, the MiB that AMAISE uses of VRAM is stored in the text file gpuusage.txt  
-track_gpu = True
+track_gpu = False
