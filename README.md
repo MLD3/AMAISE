@@ -1,10 +1,11 @@
 # AMAISE
+
+AMAISE (A Machine Learning Approach to Index-Free Sequence Enrichment) is a novel, index-free host depletion tool. Given a set of single-end reads, for each sequence, AMAISE outputs a classification label determining whether the sequence is from a host or a microbe (0 for microbe, 1 for host). AMAISE then stores all the microbial sequences in a file for downstream analysis
+
 This contains 
 1) the source code for AMAISE: A Machine Learning Approach to Index-Free Sequence Enrichment
 2) the demo data to run the source code (in "demo_test_data")
 3) the accession codes for the data used to train and test AMAISE (in "accessions.tar.gz")
-____________________________________________________________________________________________
-AMAISE (A Machine Learning Approach to Index-Free Sequence Enrichment) is a novel, index-free host depletion tool. Given a set of single-end reads, for each sequence, AMAISE outputs a classification label determining whether the sequence is from a host or a microbe (0 for microbe, 1 for host). AMAISE then stores all the microbial sequences in a file for downstream analysis
 
 ____________________________________________________________________________________________
 ## System Requirements
